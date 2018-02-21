@@ -1,0 +1,9 @@
+c:\Projects\RenameReplace\RenameReplace\bin\Debug\RenameReplace.exe.config
+c:\Projects\RenameReplace\RenameReplace\bin\Debug\RenameReplace.exe
+c:\Projects\RenameReplace\RenameReplace\bin\Debug\RenameReplace.pdb
+c:\Projects\RenameReplace\RenameReplace\obj\Debug\RenameReplace.csprojResolveAssemblyReference.cache
+c:\Projects\RenameReplace\RenameReplace\obj\Debug\RenameReplace.Form1.resources
+c:\Projects\RenameReplace\RenameReplace\obj\Debug\RenameReplace.Properties.Resources.resources
+c:\Projects\RenameReplace\RenameReplace\obj\Debug\RenameReplace.csproj.GenerateResource.Cache
+c:\Projects\RenameReplace\RenameReplace\obj\Debug\RenameReplace.exe
+c:\Projects\RenameReplace\RenameReplace\obj\Debug\RenameReplace.pdb
